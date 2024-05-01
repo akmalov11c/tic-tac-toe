@@ -20,6 +20,7 @@ How to Play
 
   1. Run the play_game.py script.
   2. Choose from the menu options:
+     
     - Play the game
     - Save your score
     - Load and display the leaderboard
